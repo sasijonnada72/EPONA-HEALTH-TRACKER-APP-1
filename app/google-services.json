@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599018499567",
+    "project_id": "personel-health-tracker",
+    "storage_bucket": "personel-health-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599018499567:android:32dddd2b9c2331e36f5a1a",
+        "android_client_info": {
+          "package_name": "com.example.personalhealthtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599018499567-emep6kbqs6pbv6e6ks0gta7ooj390038.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtEJUxynURg5UJWe0s2_Y2awvf4900_Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599018499567-emep6kbqs6pbv6e6ks0gta7ooj390038.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
